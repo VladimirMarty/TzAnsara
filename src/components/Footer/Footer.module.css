@@ -1,0 +1,16 @@
+.btn1{ 
+    background-image: url(../../images/align-bottom-01Hover.png);
+    
+}
+.btn1:hover{ 
+    background-image: url(../../images/align-bottom-01.png);
+}
+
+.btn2{ 
+    background-image: url(../../images/user-03.png);
+    
+}
+.btn2:hover{ 
+    background-image: url(../../images/user-03Hover.png);
+}
+

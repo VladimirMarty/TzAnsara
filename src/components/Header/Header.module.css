@@ -1,0 +1,36 @@
+
+   .div {
+border-bottom:  1px solid grey;
+padding:10px;
+   }
+   .search {
+    border: none; 
+    outline: none; 
+    -webkit-appearance: none; 
+    width: 460px; 
+    height: 40px;
+    border-radius: 8px;
+    background-color: #D9D9D926;
+    color: white;
+   }
+   .search:hover {
+   border: 2px solid grey;
+   } 
+   .search:focus {
+   border: 2px solid #547CFB;
+   }
+   .submit {
+   
+width:20px ;
+height:20px ;
+    cursor: pointer;
+   
+   }
+   .btn {
+   
+      width:20px ;
+      height:20px ;
+          cursor: pointer;
+         
+         }
+        

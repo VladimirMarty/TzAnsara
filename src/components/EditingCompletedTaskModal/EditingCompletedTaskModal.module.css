@@ -1,0 +1,40 @@
+.input {
+    border: none; 
+    outline: none; 
+    -webkit-appearance: none; 
+    width: 280px; 
+    height: 40px;
+    border-radius: 8px;
+    background-color: #D9D9D926;
+    color: white;
+   }
+   .input:hover {
+   border: 2px solid grey;
+   } 
+   .input:focus {
+   border: 2px solid #547CFB;
+   }
+
+   .inputSmall {
+    border: none; 
+    outline: none; 
+    -webkit-appearance: none; 
+    width: 70px; 
+    height: 40px;
+    border-radius: 8px;
+    background-color: #D9D9D926;
+    color: white;
+   }
+   .inputSmall:hover {
+   border: 2px solid grey;
+   } 
+   .inputSmall:focus {
+   border: 2px solid #547CFB;
+   }
+   .btn{
+    width: 130px; 
+    height: 40px;
+    border-radius: 8px;  
+
+      cursor: pointer;
+}
